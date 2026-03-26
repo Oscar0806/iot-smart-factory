@@ -8,7 +8,7 @@ floor. Simulates 8 machines with 5 sensor channels each,
 threshold-based alerting, and Isolation Forest ML anomaly detection.
  
 ## Live Demo
-**[Open Dashboard](https://your-url.streamlit.app)**
+**[Open Dashboard](https://iot-smart-factory-ubxu9rvtyynuoeqldmq24q.streamlit.app/)**
  
 ## Features
 - 8 machines with 5 IoT sensors each (temp, vibration, pressure, humidity, power)
