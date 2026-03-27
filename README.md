@@ -18,11 +18,6 @@ threshold-based alerting, and Isolation Forest ML anomaly detection.
 - Per-machine sensor trend charts with limit lines
 - Alert log with timestamp and severity
  
-## Relevance to Nordhausen Mechatronics M.Eng.
-- Directly matches "Industry 4.0" module
-- Demonstrates IoT sensor network understanding
-- Combines mechanics (vibration/pressure) + electronics (sensors) + CS (ML)
- 
 ## Tools (Free)
 Python, Streamlit, Plotly, Scikit-learn
  
